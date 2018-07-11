@@ -83,4 +83,4 @@ Melbourne, Australia. July 2018.
 ## Feedback, Questions
 
 If you have any comments, questions or issues, please post a note in 
-[GitHub issues](https://github.com/chanzuckerberg/MedMentions).
+[GitHub issues](https://github.com/chanzuckerberg/MedMentions/issues).
