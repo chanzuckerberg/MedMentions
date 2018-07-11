@@ -1,0 +1,10 @@
+# Exclude compiled java classes
+*.class
+#         compiled Python
+__pycache__/
+# PyCharms stuff
+.idea/
+# Mac stuff
+.DS_Store
+# Emacs backup files
+*~
