@@ -5,19 +5,19 @@ annotated with mentions of UMLS entities. [CZI Meta](https://www.chanzuckerberg.
 is releasing this data to promote NLP research on Biomedical text.
 
 This data is being released under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
-The papers in the corpus were selected from those available from [PubMed :registered: / Medline :registered:](https://www.nlm.nih.gov/databases/download/pubmed_medline.html).
+The papers in the corpus were selected from those available from [PubMed&reg; / Medline&reg;](https://www.nlm.nih.gov/databases/download/pubmed_medline.html).
 Users are referred to that source for the most current and accurate version of the text for the corresponding papers.
 
 
 ## Introduction
 
-**Corpus:** The _MedMentions_ corpus consists of 4,392 papers (Titles and Abstracts) randomly selected 
-from among papers released on [PubMed :registered:](https://www.ncbi.nlm.nih.gov/pubmed/) in 2016, that 
+**Corpus:** The _MedMentions_ corpus consists of 4,392 papers (Titles and Abstracts) randomly selected
+from among papers released on [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) in 2016, that 
 were in the biomedical field, published in the English language, and had both a Title and 
 an Abstract.
 
 **Annotators:** We recruited a team of professional annotators with rich experience in biomedical content 
-curation to exhaustively annotate all [UMLS :registered:](https://uts.nlm.nih.gov/home.html) 
+curation to exhaustively annotate all [UMLS&reg;](https://uts.nlm.nih.gov/home.html) 
 (2017AA full version) entity mentions in these papers.
 
 **Annotation quality:** We did not collect stringent IAA (Inter-annotator agreement) data. 
