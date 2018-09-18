@@ -24,11 +24,11 @@ Description | Stat  | avg
 Number of Concepts in UMLS 2017-AA Active | 3,271,124
 Number of Semantic Types (incl. UnknownType) |    128
 Number of Annotated Docs in MedMentions   |     4,392
-Total number of Mentioned Concepts | 	       34,720   | (1.06% of UMLS)
-Total number of Mentions in MedMentions |              351,813 | (80.1 / doc)
+Total number of Mentioned Concepts | 	       34,728   | (1.06% of UMLS)
+Total number of Mentions in MedMentions |              352,594 | (80.3 / doc)
 Total Number of of Tokens (PTB via StanfordNLP) |    1,176,058 | (267.8 / doc)
-Number of Annotated Tokens | 			               493,225 | (112.3 / doc)
-Proportion of tokens annotated | 	  	                 41.9% | (1.4 / mention)
+Number of Annotated Tokens | 			               493,908 | (112.5 / doc)
+Proportion of tokens annotated | 	  	                 42.0% | (1.4 / mention)
 
 As a comparison, the [BioCreative V Chemical-Disease Relation Task Corpus (BC5-CDR)](http://www.biocreative.org/resources/biocreative-v/proceedings-biocreative5/)
 is a smaller set of 1,500 papers annotated only with Chemical and Disease entity mentions 

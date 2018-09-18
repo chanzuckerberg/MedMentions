@@ -1,3 +1,5 @@
+# Exclude local doc README.txt
+README.txt
 # Exclude compiled java classes
 *.class
 #         compiled Python
