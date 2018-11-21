@@ -32,8 +32,8 @@ annotations, was 97.3%.
 
 
 * [full](full/): This is the full dataset
-
-We will also publish some task-specific subsets of this data.
+* [ST21pv](st21pv/): This is the ST21pv subset, containing a subset of the full annotations, 
+    targeting information retrieval.
 
 
 ## The PubTator format
