@@ -77,11 +77,11 @@ types: "Amino Acid, Peptide, or Protein" (T116) and "Biologically Active Substan
 
 If you use MedMentions, please cite the following paper:
 
-Sunil Mohan and Donghui Li. ﻿
+Sunil Mohan and Donghui Li.
 *MedMentions: A Large Biomedical Corpus Annotated with UMLS Concepts*.
 In Proceedings of the 2019 Conference on Automated Knowledge Base Construction (AKBC 2019).
 Amherst, Massachusetts, USA. May 2019.
-Preprint: [https://arxiv.org/abs/1902.09476](﻿https://arxiv.org/abs/1902.09476)
+Preprint: [https://arxiv.org/abs/1902.09476](https://arxiv.org/abs/1902.09476)
 
 ### Other papers on MedMentions
 
