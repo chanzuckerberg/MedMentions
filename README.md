@@ -30,7 +30,6 @@ annotations, was 97.3%.
 
 ## The Full Dataset, and Subsets
 
-
 * [full](full/): This is the full dataset
 * [ST21pv](st21pv/): This is the ST21pv subset, containing a subset of the full annotations, 
     targeting information retrieval.
@@ -76,7 +75,15 @@ types: "Amino Acid, Peptide, or Protein" (T116) and "Biologically Active Substan
 
 ## How to cite
 
-A more formal release will be published soon. Until then, please cite the following paper:
+If you use MedMentions, please cite the following paper:
+
+Sunil Mohan and Donghui Li. ﻿
+*MedMentions: A Large Biomedical Corpus Annotated with UMLS Concepts*.
+In Proceedings of the 2019 Conference on Automated Knowledge Base Construction (AKBC 2019).
+Amherst, Massachusetts, USA. May 2019.
+Preprint: [https://arxiv.org/abs/1902.09476](﻿https://arxiv.org/abs/1902.09476)
+
+### Other papers on MedMentions
 
 Shikhar Murty, Patrick Verga, Luke Vilnis, Irena Radovanovic and Andrew McCallum.
 *Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking*.
