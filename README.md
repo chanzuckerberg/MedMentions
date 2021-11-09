@@ -77,15 +77,22 @@ types: "Amino Acid, Peptide, or Protein" (T116) and "Biologically Active Substan
 
 If you use MedMentions, please cite the following paper:
 
-Sunil Mohan and Donghui Li.
+Sunil Mohan and Donghui Li. 2019.
 *MedMentions: A Large Biomedical Corpus Annotated with UMLS Concepts*.
 In Proceedings of the 2019 Conference on Automated Knowledge Base Construction (AKBC 2019).
 Amherst, Massachusetts, USA. May 2019.
-Preprint: [https://arxiv.org/abs/1902.09476](https://arxiv.org/abs/1902.09476)
+[[Preprint](https://arxiv.org/abs/1902.09476)]
+
+### Our Latest Model
+
+Our model achieves SOTA results (2021) on UMLS recognition (ST21pv subset): a lower bound F1 score of **0.570** for *mention level* entity recognition (detection and linking), and an F1 score of **0.657** for recognizing UMLS concepts at the *document level*. For details, please see the following paper:
+
+Sunil Mohan, Rico Angell, Nicholas Monath, Andrew McCallum. 2021.
+*Low Resource Recognition and Linking of Biomedical Concepts from a Large Ontology*. In Proceedings of the ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB), 2021. [[doi](https://doi.org/10.1145/3459930.3469524)] [[Preprint](https://arxiv.org/abs/2101.10587)]
 
 ### Other papers on MedMentions
 
-Shikhar Murty, Patrick Verga, Luke Vilnis, Irena Radovanovic and Andrew McCallum.
+Shikhar Murty, Patrick Verga, Luke Vilnis, Irena Radovanovic and Andrew McCallum. 2018.
 *Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking*.
 The 56th Annual Meeting of the Association for Computational Linguistics (ACL). 
 Melbourne, Australia. July 2018.
